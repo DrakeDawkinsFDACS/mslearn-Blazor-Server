@@ -3,6 +3,8 @@
 # mslearn-interact-with-data-blazor-web-apps 
 This project is made for training purposes with Blazor Server. This is in the form of a pizza ordering app.
 
+This is used to train the DPI Programming staff on how to work with Blazor Server side on any possible future projects.
+
 # Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
